@@ -58,12 +58,11 @@
 
 <p>La mayoría de estudiantes se concentraron entre las notas 14 y 20, con un pico significativo en las notas altas (19-20). Pocas personas obtuvieron menos de 12, lo cual refleja un rendimiento general positivo.</p>
 
-<h3>📌 Conclusión</h3>
+<h3>Resumen</h3>
 
 <ul>
   <li>El rendimiento general fue bueno (promedio total de 15.41).</li>
   <li>El Grupo B destacó en promedio, aunque también mostró más variabilidad.</li>
   <li>Los grupos A y C tuvieron un comportamiento más homogéneo pero con promedios más bajos.</li>
-  <li>Sería recomendable revisar la equidad en la dificultad entre los exámenes de los grupos.</li>
 </ul>
 
